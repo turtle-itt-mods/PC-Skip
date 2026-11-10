@@ -1,0 +1,9 @@
+{
+  "author" : "TurtleDSR",
+  "name" : "PC Skip",
+  "id" : "com.turtledsr.pcskip",
+  "version" : "1.0.0",
+  "source" : "",
+  "soft_dependencies" : [],
+  "dependencies" : []
+}
